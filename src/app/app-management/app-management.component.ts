@@ -8,5 +8,23 @@ import { Component } from "@angular/core";
 })
 
 export class AppManagementComponent {
+navTabs :any[] = [
+    {
+        name:'Dashboard',
+        path: ''
+    },
+    {
+        name : 'DashboardTwo',
+        path: ''
+    },
+    {
+        name: 'DashboardThree',
+        path: ''
+    }
+]
+    constructor() {}
+    ngOnInit() {
+
+    }
     
 }

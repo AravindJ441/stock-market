@@ -15,9 +15,9 @@ export const AppManagementRoutes: Routes =[
     },
     {
         path: 'app-management',
-        canActivate:[AuthGuard],
         component:AppManagementComponent,
         children: [
+            {path: '', redirectTo: 'dashboard'},
             {path: 'dashboard', component: DashboardComponent}
         ]
 
