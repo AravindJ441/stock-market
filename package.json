@@ -47,7 +47,7 @@
     "ngx-filepond": "^5.0.1",
     "ngx-pagination": "^4.1.0",
     "ngx-permissions": "^7.0.3",
-    "npm": "^6.13.0",
+    "npm": "^6.14.6",
     "rxjs": "~6.5.3",
     "socket.io-client": "^2.3.0",
     "update-node": "^0.1.0",
