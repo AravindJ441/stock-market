@@ -38,7 +38,7 @@
     "filepond-plugin-file-validate-size": "^2.2.0",
     "filepond-plugin-file-validate-type": "^1.2.4",
     "filepond-polyfill": "^1.0.4",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "moment-mini-ts": "^2.20.1",
     "ng-recaptcha": "^5.0.0",
     "ngrx-store-localstorage": "^8.0.0",
